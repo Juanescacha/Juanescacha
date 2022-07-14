@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Juanescacha/Juanescacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dlw25joy5zyxca7eemkdt2lugq&cover_image=true&theme=default&bar_color=00b3ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31dlw25joy5zyxca7eemkdt2lugq&redirect=true)
