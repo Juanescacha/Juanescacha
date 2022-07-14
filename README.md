@@ -1,6 +1,6 @@
 <samp>
 Hi! <br>
-  📚 currently studying Computer Science <br> 
+  📚 studying: Computer Science <br> 
   🎮 playing: elden ring, league of legends, valorant <br>
   🌐 languages: spanish, english <br> 
   🎧 listening to: <br>
