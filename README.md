@@ -1,3 +1,4 @@
+<img align="left" width="200" src="https://i.postimg.cc/tRMbs2Yx/octocat-1657899921600.png">
 <samp>
 Hi! <br>
   📚 studying Computer Science <br> 
