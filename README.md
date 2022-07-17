@@ -3,7 +3,7 @@
 Hi! <br>
   📚 studying Computer Science <br> 
   🎮 playing: elden ring, league of legends and valorant <br>
-  🌐 languages: spanish, english, japanese <br> 
+  🌐 languages: spanish, english <br> 
   🎧 listening to: <br>
 </samp>
   
