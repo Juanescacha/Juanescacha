@@ -7,4 +7,4 @@ Hi! <br>
   🎧 listening to: <br>
 </samp>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dlw25joy5zyxca7eemkdt2lugq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31dlw25joy5zyxca7eemkdt2lugq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mxi5kts24htqt7aiwrfqthcf3i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mxi5kts24htqt7aiwrfqthcf3i&redirect=true)
