@@ -8,3 +8,5 @@ Hi! <br>
 </samp>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mxi5kts24htqt7aiwrfqthcf3i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true&show_offline=true)](https://spotify-github-profile.vercel.app/api/view?uid=31mxi5kts24htqt7aiwrfqthcf3i&redirect=true)
+
+![](https://hit.yhype.me/github/profile?user_id=6394715)
