@@ -68,3 +68,7 @@ src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-t
 ## Support Me
 
 <a href="https://www.buymeacoffee.com/Juanescacha"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+# TESTS
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
