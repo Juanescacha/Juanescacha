@@ -5,11 +5,13 @@
 descripcion
 
 -   🌍  I'm based in Cali, Colombia
--   🖥️  See my portfolio at [portafolio](http://juanescacha.github.io)
--   ✉️  You can contact me at [juanescacha@hotmail.com](mailto:juanescacha@hotmail.com)
--   🚀  I'm currently working on [aplicacion](http://myapp.com)
+-   🖥️  See my [portafolio](http://juanescacha.github.io)
+-   ✉️  You can contact me at my [e-mail](mailto:juanescacha@hotmail.com)
+-   🚀  I'm currently working on [aplicacion-name](http://myapp.com)
 -   🧠  I'm learning microservices
--   🤝  I'm open to collaborating on open source proyects
+-   🤝  I'm open to collaborate on interesting open source proyects
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mxi5kts24htqt7aiwrfqthcf3i&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=false&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mxi5kts24htqt7aiwrfqthcf3i&redirect=true)
 
 ### Skills
 
@@ -50,6 +52,8 @@ descripcion
 
 <a href="https://www.github.com/juanescacha" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=juanescacha">
 
 </p>
 
