@@ -71,4 +71,4 @@ src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-t
 
 # TESTS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanescacha)](https://github.com/anuraghazra/github-readme-stats)
