@@ -11,9 +11,6 @@ descripcion
 -   🧠  I'm learning microservices
 -   🤝  I'm open to collaborating on open source proyects
 
-<a href="https://www.github.com/juanescacha" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
@@ -50,6 +47,8 @@ src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-t
 
 <p align="left">
 <a href="https://discord.com/users/736992692277608459" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  <a href="https://www.github.com/juanescacha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  <a href="http://www.instagram.com/juanescacha_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/juanescacha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://www.twitter.com/juanescacha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>  <a href="https://www.youtube.com/c/juanescacha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>  <a href="https://www.twitch.tv/juanescacha_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/juanescacha" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
 
 ### Badges
