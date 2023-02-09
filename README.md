@@ -69,12 +69,6 @@ src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-t
 
 # TEST
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
