@@ -13,7 +13,7 @@ _bio, description..._
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mxi5kts24htqt7aiwrfqthcf3i&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=false&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mxi5kts24htqt7aiwrfqthcf3i&redirect=true)
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
@@ -45,7 +45,7 @@ _bio, description..._
 
 </p>
 
-### Socials
+## Socials
 
 <p align="left">
 <a href="https://discord.com/users/736992692277608459" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  <a href="https://www.github.com/juanescacha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  <a href="http://www.instagram.com/juanescacha_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/juanescacha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://www.twitter.com/juanescacha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>  <a href="https://www.youtube.com/c/juanescacha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>  <a href="https://www.twitch.tv/juanescacha_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
@@ -57,7 +57,7 @@ src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-t
 
 <img src="https://komarev.com/ghpvc/?username=juanescacha">
 
-### GitHub Stats
+## GitHub Stats
 
 <a href="http://www.github.com/juanescacha"><img src="https://github-readme-stats.vercel.app/api?username=juanescacha&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&border_radius=0&show_icons=true" alt="juanescacha's GitHub stats" /></a>
 
@@ -65,6 +65,6 @@ src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-t
 
 <a href="https://github.com/juanescacha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+## Support Me
 
 <a href="https://www.buymeacoffee.com/Juanescacha"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
