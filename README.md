@@ -57,6 +57,10 @@ src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-t
 
 <img src="https://komarev.com/ghpvc/?username=juanescacha">
 
+## Support Me
+
+<a href="https://www.buymeacoffee.com/Juanescacha"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true" />
@@ -64,7 +68,3 @@ src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-t
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanescacha&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&langs_count=6&hide_border=true&layout=compact" />
-
-## Support Me
-
-<a href="https://www.buymeacoffee.com/Juanescacha"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
