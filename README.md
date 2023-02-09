@@ -71,4 +71,4 @@ src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-t
 
 # TESTS
 
-[![Juanescacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true)](#)
+[![Juanescacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true)](https://github.com/juanescacha)
