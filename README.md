@@ -63,11 +63,11 @@ src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-t
 
 ## GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true" />
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true" /></a>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanescacha&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanescacha&hide_border=true&date_format=j%20M%5B%20Y%5D" /></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&langs_count=6&hide_border=true&layout=compact" />
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&langs_count=6&hide_border=true&layout=compact" /></a>
 
 # TEST
 
