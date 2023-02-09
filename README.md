@@ -1,8 +1,8 @@
 # Hi 👋 My name is Juanes
 
-## Software Engineer
+## Fullstack Developer
 
-descripcion
+_bio, description..._
 
 -   🌍  I'm based in Cali, Colombia
 -   🖥️  See my [Portafolio](http://juanescacha.github.io)
