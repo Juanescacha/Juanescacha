@@ -53,9 +53,7 @@ src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-t
 
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### GitHub Stats
 
 <a href="http://www.github.com/juanescacha"><img src="https://github-readme-stats.vercel.app/api?username=juanescacha&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&border_radius=0&show_icons=true" alt="juanescacha's GitHub stats" /></a>
 
