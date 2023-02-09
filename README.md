@@ -59,16 +59,12 @@ src="https://img.shields.io/github/followers/juanescacha?logo=github&style=for-t
 
 ## GitHub Stats
 
-<a href="http://www.github.com/juanescacha"><img src="https://github-readme-stats.vercel.app/api?username=juanescacha&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&border_radius=0&show_icons=true" alt="juanescacha's GitHub stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true" />
 
-<a href="http://www.github.com/juanescacha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juanescacha&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanescacha&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
-<a href="https://github.com/juanescacha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&langs_count=6&hide_border=true&layout=compact" />
 
 ## Support Me
 
 <a href="https://www.buymeacoffee.com/Juanescacha"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-# TESTS
-
-[![Juanescacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true)](https://github.com/juanescacha)
