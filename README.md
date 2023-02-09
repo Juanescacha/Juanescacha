@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-descripcion larga... lorem impsu
+descripcion
 
 -   🌍  I'm based in Cali, Colombia
 -   🖥️  See my portfolio at [portafolio](http://juanescacha.github.io)
