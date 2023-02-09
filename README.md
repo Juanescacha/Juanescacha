@@ -5,8 +5,8 @@
 descripcion
 
 -   🌍  I'm based in Cali, Colombia
--   🖥️  See my [portafolio](http://juanescacha.github.io)
--   ✉️  You can contact me at my [e-mail](mailto:juanescacha@hotmail.com)
+-   🖥️  See my [Portafolio](http://juanescacha.github.io)
+-   ✉️  You can contact me [here](mailto:juanescacha@hotmail.com)
 -   🚀  I'm currently working on [aplicacion-name](http://myapp.com)
 -   🧠  I'm learning microservices
 -   🤝  I'm open to collaborate on interesting open source proyects
