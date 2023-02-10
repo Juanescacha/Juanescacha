@@ -57,13 +57,13 @@ I'm a software developer, I like to learn new things and I'm always looking for 
 	<img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" width="37.5" height="37.5" alt="Photoshop" />
 </a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
-	<img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" width="37" height="37" alt="Illustrator" />
+	<img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" width="37.5" height="37.5" alt="Illustrator" />
 </a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer">
-	<img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" width="37" height="37" alt="After Effects" />
+	<img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" width="37.5" height="37.5" alt="After Effects" />
 </a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
-	<img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/pr_appicon.svg" width="37" height="37" alt="Premiere Pro" />
+	<img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/pr_appicon.svg" width="37.5" height="37.5" alt="Premiere Pro" />
 </a>
 
 </p>
