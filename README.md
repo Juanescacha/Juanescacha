@@ -54,28 +54,16 @@ I'm a software developer, I like to learn new things and I'm always looking for 
 	</picture>
 </a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-	<picture>
-		<source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" media="(prefers-color-scheme: light)">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" />
-	</picture>
+	<img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" width="36" height="36" alt="Photoshop" />
 </a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
-	<picture>
-		<source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" media="(prefers-color-scheme: light)">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" />
-	</picture>
+	<img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" width="36" height="36" alt="Illustrator" />
 </a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer">
-	<picture>
-		<source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" media="(prefers-color-scheme: light)">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" />
-	</picture>
+	<img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" width="36" height="36" alt="After Effects" />
 </a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
-	<picture>
-		<source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" media="(prefers-color-scheme: light)">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" />
-	</picture>
+	<img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/pr_appicon.svg" width="36" height="36" alt="Premiere Pro" />
 </a>
 
 </p>
