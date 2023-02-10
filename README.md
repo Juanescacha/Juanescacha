@@ -1,12 +1,12 @@
 # Hi 👋 My name is Juanes
 
-_bio, description..._
+I'm a software developer, I like to learn new things and I'm always looking for new challenges.
 
 -   🌍  I'm based in Cali, Colombia
--   🖥️  See my [Portafolio](http://juanescacha.github.io)
+<!-- -   🖥️  See my [Portafolio](http://juanescacha.github.io) -->
 -   ✉️  You can contact me [here](mailto:juanescacha@hotmail.com)
--   🚀  I'm currently working on [aplicacion-name](http://myapp.com)
--   🧠  I'm learning microservices
+<!-- -   🚀  I'm currently working on [aplicacion-name](http://myapp.com) -->
+-   🧠  I'm currently learning React, Redux, Node.js, MongoDB, GraphQL and TypeScript
 -   🤝  I'm open to collaborate on interesting open source proyects
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mxi5kts24htqt7aiwrfqthcf3i&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=false&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mxi5kts24htqt7aiwrfqthcf3i&redirect=true)
