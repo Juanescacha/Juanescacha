@@ -49,7 +49,7 @@ I'm a software developer, I like to learn new things and I'm always looking for 
 </a>
 <a href="https://www.github.com/juanescacha" target="_blank" rel="noreferrer">
 	<picture>
-		<source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-light.svg" media="(prefers-color-scheme: light)" />
+		<source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" media="(prefers-color-scheme: light)" />
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
 	</picture>
 </a>
