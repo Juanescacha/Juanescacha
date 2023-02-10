@@ -2,10 +2,8 @@
 
 I'm a software developer, I like to learn new things and I'm always looking for new challenges.
 
--   🌍  I'm based in Cali, Colombia
-<!-- -   🖥️  See my [Portafolio](http://juanescacha.github.io) -->
--   ✉️  You can contact me [here](mailto:juanescacha@hotmail.com)
-<!-- -   🚀  I'm currently working on [aplicacion-name](http://myapp.com) -->
+-   🌍  I'm based in Cali, Colombia <!-- -   🖥️  See my [Portafolio](http://juanescacha.github.io) -->
+-   ✉️  You can contact me [here](mailto:juanescacha@hotmail.com) <!-- -   🚀  I'm currently working on [aplicacion-name](http://myapp.com) -->
 -   🧠  I'm currently learning React, Redux, Node.js, MongoDB, GraphQL and TypeScript
 -   🤝  I'm open to collaborate on interesting open source proyects
 
