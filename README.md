@@ -13,7 +13,7 @@ I'm a software developer, I like to learn new things and I'm always looking for 
 		<img src="https://spotify-github-profile.vercel.app/api/view?uid=31mxi5kts24htqt7aiwrfqthcf3i&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=false&show_offline=false">
 	</picture>
 </a>
-s
+
 ## Skills
 
 <p align="left">
