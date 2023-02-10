@@ -1,7 +1,5 @@
 # Hi 👋 My name is Juanes
 
-## Fullstack Developer
-
 _bio, description..._
 
 -   🌍  I'm based in Cali, Colombia
