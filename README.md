@@ -54,7 +54,7 @@ I'm a software developer, I like to learn new things and I'm always looking for 
 	</picture>
 </a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-	<img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" width="37" height="37" alt="Photoshop" />
+	<img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" width="37.5" height="37.5" alt="Photoshop" />
 </a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
 	<img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" width="37" height="37" alt="Illustrator" />
