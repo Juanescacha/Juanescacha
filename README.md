@@ -28,9 +28,9 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
   	<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=007acc" height="36" /> 
   	<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="36" /> 
   	<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="36" />
-	<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" height="36" />
+	<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=83CD29" height="36" />
 	<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" height="36" />
-	<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="36" />
+	<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=50AA41" height="36" />
 	<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" height="36" />
 	<img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=44B78B" height="36" />
 	<img src="https://img.shields.io/badge/Photoshop-282C34?logo=Adobe%20Photoshop&logoColor=31A8FF" height="36" />
