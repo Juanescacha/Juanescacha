@@ -39,8 +39,10 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 
 ## Socials
 
-<p align="left">
-<a href="https://www.linkedin.com/in/juanescacha" target="_blank" rel="noreferrer">
+<p align="center">
+	<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="JavaScript" height="25" />
+	
+<!-- <a href="https://www.linkedin.com/in/juanescacha" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </a>
 <a href="https://www.twitter.com/juanescacha" target="_blank" rel="noreferrer">
@@ -63,7 +65,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 		<source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" media="(prefers-color-scheme: light)" />
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
 	</picture>
-</a>
+</a> -->
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=juanescacha">
