@@ -38,11 +38,10 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 	<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" height="30" />
 	<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=326CE5" height="30" />
 	<img src="https://img.shields.io/badge/Azure-282C34?logo=Microsoft%20Azure&logoColor=0078D4" height="30" />
-	<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" height="30" />
-  	<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="30" />
   	<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" />
-  	<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21330" height="30" />
-  	<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" height="30" />
+  	<img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" height="30" />
+		<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" height="30" />
+  	<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="30" />
 	<!-- Fin Ocultos -->
 	<img src="https://img.shields.io/badge/Photoshop-282C34?logo=Adobe%20Photoshop&logoColor=31A8FF" height="30" />
 	<img src="https://img.shields.io/badge/Illustrator-282C34?logo=Adobe%20Illustrator&logoColor=FF9A00" height="30" />
