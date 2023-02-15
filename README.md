@@ -73,7 +73,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/TypeScript-007acc?logo=typescript&logoColor=FFF" height="30" /> 
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=FFF" height="30" /> 
-<img src="https://img.shields.io/badge/Redux-FFF?logo=redux&logoColor=" height="30" />
+<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Node.js-83cd29?logo=node.js&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=000" height="30" />
 <img src="https://img.shields.io/badge/MongoDB-50AA41?logo=mongodb&logoColor=FFF" height="30" />
