@@ -22,8 +22,8 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 	<img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="30" />
 	<!-- <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=" height="30" /> -->
 	<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFE873" height="30" />
-	<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="30" />
-	<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="30" />
+	<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=F16525" height="30" />
+	<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1DA1F2" height="30" />
   	<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="30" />
   	<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=007acc" height="30" /> 
   	<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" /> 
@@ -35,15 +35,20 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 	<img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=44B78B" height="30" />
 	<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" />
 	<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" />
+	<!-- Ocultos -->
+	<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" height="30" />
+	<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=326CE5" height="30" />
+	<img src="https://img.shields.io/badge/Azure-282C34?logo=Microsoft%20Azure&logoColor=0078D4" height="30" />
+	<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" height="30" />
+  	<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="30" />
+  	<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" />
+  	<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21330" height="30" />
+  	<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" height="30" />
+	<!-- Fin Ocultos -->
 	<img src="https://img.shields.io/badge/Photoshop-282C34?logo=Adobe%20Photoshop&logoColor=31A8FF" height="30" />
 	<img src="https://img.shields.io/badge/Illustrator-282C34?logo=Adobe%20Illustrator&logoColor=FF9A00" height="30" />
 	<img src="https://img.shields.io/badge/After%20Effects-282C34?logo=Adobe%20After%20Effects&logoColor=9999FF" height="30" />
 	<img src="https://img.shields.io/badge/Premiere%20Pro-282C34?logo=Adobe%20Premiere%20Pro&logoColor=9999FF" height="30" />
-    <!-- <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" height="30" /> -->
-  	<!-- <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="30" /> -->
-  	<!-- <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" /> -->
-  	<!-- <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21330" height="30" /> -->
-  	<!-- <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" height="30" /> -->
 </p>
 
 ## Socials
