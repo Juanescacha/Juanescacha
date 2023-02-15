@@ -18,7 +18,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 
 ## Skills
 
-<p align="center">
+<div align="center">
 <img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="30" />
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3773A5" height="30" />
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=F16525" height="30" />
@@ -63,7 +63,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/Illustrator-282C34?logo=Adobe%20Illustrator&logoColor=FF9A00" height="30" />
 <img src="https://img.shields.io/badge/After%20Effects-282C34?logo=Adobe%20After%20Effects&logoColor=9999FF" height="30" />
 <img src="https://img.shields.io/badge/Premiere%20Pro-282C34?logo=Adobe%20Premiere%20Pro&logoColor=9999FF" height="30" />
-</p>
+</div>
 
 ## Socials
 
