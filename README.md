@@ -77,6 +77,16 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/Github-282C34?logo=Github" height="30" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Discord-7289DA?logo=Discord&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Github-000?logo=Github&logoColor=FFF" height="30" />
+</p>
+
 ## GitHub Stats
 
 | <img src="https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark" /> | <img src="https://readmestats.999857.xyz/api/top-langs/?username=juanescacha&langs_count=6&hide_border=true&layout=compact&theme=dark" /> |
