@@ -69,13 +69,16 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 
 <p align="center">
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=FFF" height="30" />](https://www.linkedin.com/in/juanescacha)
+|     |
+| :-: |
+
+| [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=FFF" height="30" />](https://www.linkedin.com/in/juanescacha)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=FFF" height="30" />](https://twitter.com/juanescacha)
 [<img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=FFF" height="30" />](https://www.twitch.tv/juanescacha_)
 [<img src="https://img.shields.io/badge/Discord-7289DA?logo=Discord&logoColor=FFF" height="30" />](https://discord.com/users/736992692277608459)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=FFF" height="30" />](https://www.instagram.com/juanescacha_)
 [<img src="https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=FFF" height="30" />](https://www.youtube.com/juanescacha)
-[<img src="https://img.shields.io/badge/Github-000?logo=Github&logoColor=FFF" height="30" />](https://www.github.com/juanescacha)
+[<img src="https://img.shields.io/badge/Github-000?logo=Github&logoColor=FFF" height="30" />](https://www.github.com/juanescacha) |
 
 </p>
 
