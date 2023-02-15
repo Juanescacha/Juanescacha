@@ -35,7 +35,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" />
 <!-- Ocultos -->
-<img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=000000" height="30" />
+<img src="https://img.shields.io/badge/Flask-282C34?logo=flask" height="30" />
 <img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" height="30" />
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="30" />
 <img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" height="30" />
