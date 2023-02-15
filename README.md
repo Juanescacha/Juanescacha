@@ -53,7 +53,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" />
 <img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" height="30" />
 <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" height="30" />
-<img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon%20aws&logoColor=232F3E" height="30" />
+<img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon%20aws" height="30" />
 <img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel" height="30" />
 <img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" height="30" />
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" height="30" />
