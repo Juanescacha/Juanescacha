@@ -67,6 +67,8 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 
 ## Socials
 
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=FFF" height="30" />](https://www.linkedin.com/in/juanescacha)
+
 <p align="center">
 <a href="https://www.linkedin.com/in/juanescacha" >
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=FFF" height="30" />
