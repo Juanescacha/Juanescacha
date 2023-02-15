@@ -33,17 +33,17 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 	<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=50AA41" height="30" />
 	<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" height="30" />
 	<img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=44B78B" height="30" />
+	<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" />
+	<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" />
 	<img src="https://img.shields.io/badge/Photoshop-282C34?logo=Adobe%20Photoshop&logoColor=31A8FF" height="30" />
 	<img src="https://img.shields.io/badge/Illustrator-282C34?logo=Adobe%20Illustrator&logoColor=FF9A00" height="30" />
 	<img src="https://img.shields.io/badge/After%20Effects-282C34?logo=Adobe%20After%20Effects&logoColor=9999FF" height="30" />
 	<img src="https://img.shields.io/badge/Premiere%20Pro-282C34?logo=Adobe%20Premiere%20Pro&logoColor=9999FF" height="30" />
-  	<!-- <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" height="30" /> -->
+    <!-- <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" height="30" /> -->
   	<!-- <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="30" /> -->
   	<!-- <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" /> -->
   	<!-- <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21330" height="30" /> -->
-  	<!-- <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" /> -->
   	<!-- <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" height="30" /> -->
-  	<!-- <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="30" /> -->
 </p>
 
 ## Socials
