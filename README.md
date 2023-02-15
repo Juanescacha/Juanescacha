@@ -19,7 +19,9 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 ## Skills
 
 <p align="center">
-<img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=F7DF1E" height="25" />
+	<img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="25" />
+	<!-- <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=" height="25" /> -->
+	<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" height="25" />	
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />
   <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25" /> 
   <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" />
