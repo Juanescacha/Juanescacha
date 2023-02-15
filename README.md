@@ -21,7 +21,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <p align="center">
 	<img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="25" />
 	<!-- <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=" height="25" /> -->
-	<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" height="25" />
+	<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=" height="25" />
 	<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" />
 	<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25" />
   	<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />
@@ -31,6 +31,12 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 	<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" height="25" />
 	<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" height="25" />
 	<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25" />
+	<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" height="25" />
+	<img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=092E20" height="25" />
+	<img src="https://img.shields.io/badge/Photoshop-282C34?logo=Adobe%20Photoshop&logoColor=31A8FF" height="25" />
+	<img src="https://img.shields.io/badge/Illustrator-282C34?logo=Adobe%20Illustrator&logoColor=FF9A00" height="25" />
+	<img src="https://img.shields.io/badge/After%20Effects-282C34?logo=Adobe%20After%20Effects&logoColor=9999FF" height="25" />
+	<img src="https://img.shields.io/badge/Premiere%20Pro-282C34?logo=Adobe%20Premiere%20Pro&logoColor=9999FF" height="25" />
   	<!-- <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" height="25" /> -->
   	<!-- <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="25" /> -->
   	<!-- <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="25" /> -->
