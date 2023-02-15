@@ -70,7 +70,8 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/Python-FFE873?logo=python&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/HTML5-F16525?logo=html5&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/CSS3-1DA1F2?logo=css3&logoColor=FFF" height="30" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=FFF" height="30" />
+<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=FFF" height="30" /> -->
+<img src="https://img.shields.io/badge/JavaScript-f7a52a?logo=javascript&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/TypeScript-007acc?logo=typescript&logoColor=FFF" height="30" /> 
 <img src="https://img.shields.io/badge/React-00c7f9?logo=react&logoColor=FFF" height="30" /> 
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=FFF" height="30" />
@@ -104,14 +105,14 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Amazon%20AWS-202124?logo=amazon%20aws&logoColor=FF9900" height="30" />
-<img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=FFF" height="30" />
 <!-- Fin Ocultos -->
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=Adobe%20Illustrator&logoColor=FFF" height="30" />
-<img src="https://img.shields.io/badge/After%20Effects-00075B?logo=Adobe%20After%20Effects&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/After%20Effects-9999FF?logo=Adobe%20After%20Effects&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=FFF" height="30" />
 </p>
 
