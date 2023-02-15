@@ -19,50 +19,54 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 ## Skills
 
 <p align="center">
-<img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="30" />
-<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFE873" height="30" />
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=F16525" height="30" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1DA1F2" height="30" />
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="30" />
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=007acc" height="30" /> 
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" /> 
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="30" />
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=83cd29" height="30" />
-<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" height="30" />
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=50AA41" height="30" />
-<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" height="30" />
-<img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=44B78B" height="30" />
-<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" />
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Python-FFE873?logo=python&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/HTML5-F16525?logo=html5&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/CSS3-1DA1F2?logo=css3&logoColor=FFF" height="30" />
+<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=FFF" height="30" /> -->
+<img src="https://img.shields.io/badge/JavaScript-f7a52a?logo=javascript&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/TypeScript-007acc?logo=typescript&logoColor=FFF" height="30" /> 
+<img src="https://img.shields.io/badge/React-00c7f9?logo=react&logoColor=FFF" height="30" /> 
+<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Node.js-83cd29?logo=node.js&logoColor=FFF" height="30" />
+<!-- <img src="https://img.shields.io/badge/Express-FFF?logo=express&logoColor=000" height="30" /> -->
+<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/MongoDB-50AA41?logo=mongodb&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Django-44B78B?logo=Django&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38bdf8?logo=tailwind-css&logoColor=FFF" height="30" />
 <!-- Ocultos -->
-<img src="https://img.shields.io/badge/Flask-282C34?logo=flask" height="30" />
-<img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" height="30" />
-<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="30" />
-<img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" height="30" />
-<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" height="30" />
-<img src="https://img.shields.io/badge/JQuery-282C34?logo=jquery&logoColor=0769AD" height="30" />
-<img src="https://img.shields.io/badge/Material%20Design-282C34?logo=material%20design&logoColor=757575" height="30" />
-<img src="https://img.shields.io/badge/Material%20UI-282C34?logo=mui&logoColor=007FFF" height="30" />
-<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" height="30" />
-<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" height="30" />
-<img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" height="30" />
-<img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" height="30" />
-<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" height="30" />
-<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=326CE5" height="30" />
-<img src="https://img.shields.io/badge/Azure-282C34?logo=Microsoft%20Azure&logoColor=0078D4" height="30" />
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" />
-<img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" height="30" />
-<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" height="30" />
-<img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon%20aws" height="30" />
-<img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel" height="30" />
-<img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" height="30" />
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" height="30" />
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="30" />
+<!-- <img src="https://img.shields.io/badge/Flask-FFF?logo=flask&logoColor=000" height="30" /> -->
+<img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Material%20Design-757575?logo=material%20design&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Azure-0078D4?logo=Microsoft%20Azure&logoColor=FFF" height="30" />
+<!-- <img src="https://img.shields.io/badge/Next.js-FFF?logo=next.js&logoColor=000" height="30" /> -->
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Amazon%20AWS-202124?logo=amazon%20aws&logoColor=FF9900" height="30" />
+<img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=FFF" height="30" />
 <!-- Fin Ocultos -->
-<img src="https://img.shields.io/badge/Photoshop-282C34?logo=Adobe%20Photoshop&logoColor=31A8FF" height="30" />
-<img src="https://img.shields.io/badge/Illustrator-282C34?logo=Adobe%20Illustrator&logoColor=FF9A00" height="30" />
-<img src="https://img.shields.io/badge/After%20Effects-282C34?logo=Adobe%20After%20Effects&logoColor=9999FF" height="30" />
-<img src="https://img.shields.io/badge/Premiere%20Pro-282C34?logo=Adobe%20Premiere%20Pro&logoColor=9999FF" height="30" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=Adobe%20Illustrator&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/After%20Effects-9999FF?logo=Adobe%20After%20Effects&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=FFF" height="30" />
 </p>
 
 ## Socials
