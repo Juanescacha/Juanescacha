@@ -40,32 +40,13 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 ## Socials
 
 <p align="center">
-	<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="JavaScript" height="25" />
-	
-<!-- <a href="https://www.linkedin.com/in/juanescacha" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>
-<a href="https://www.twitter.com/juanescacha" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-</a>
-<a href="https://www.twitch.tv/juanescacha_" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
-</a>
-<a href="https://discord.com/users/736992692277608459" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-</a>
-<a href="http://www.instagram.com/juanescacha_" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-</a>
-<a href="https://www.youtube.com/c/juanescacha" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-</a>
-<a href="https://www.github.com/juanescacha" target="_blank" rel="noreferrer">
-	<picture>
-		<source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" media="(prefers-color-scheme: light)" />
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
-	</picture>
-</a> -->
+	<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0A66C2" height="25" />
+	<img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter" height="25" />
+	<img src="https://img.shields.io/badge/Twitch-282C34" height="25" />
+	<img src="https://img.shields.io/badge/Discord-282C34?logo=Discord" height="25" />
+	<img src="https://img.shields.io/badge/Discord-282C34?logo=Instagram" height="25" />
+	<img src="https://img.shields.io/badge/Youtube-282C34?logo=Youtube&logoColor=FF0000" height="25" />
+	<img src="https://img.shields.io/badge/Github-282C34?logo=Github" height="25" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=juanescacha">
