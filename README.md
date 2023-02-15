@@ -71,7 +71,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <a href="https://www.linkedin.com/in/juanescacha" ><div>
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=FFF" height="30" />
 </div></a>
-<a href="https://twitter.com/juanescacha" ><div>
+<!-- <a href="https://twitter.com/juanescacha" ><div>
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=FFF" height="30" />
 </div></a>
 <a href="https://www.twitch.tv/juanescacha_" ><div>
@@ -88,7 +88,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 </div></a>
 <a href="https://www.github.com/juanescacha" ><div>
 <img src="https://img.shields.io/badge/Github-000?logo=Github&logoColor=FFF" height="30" />
-</div></a>
+</div></a> -->
 </p>
 
 ## GitHub Stats
