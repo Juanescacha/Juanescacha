@@ -67,16 +67,6 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 
 ## Socials
 
-<!-- <p align="center">
-<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0A66C2" height="30" />
-<img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter" height="30" />
-<img src="https://img.shields.io/badge/Twitch-282C34?logo=twitch" height="30" />
-<img src="https://img.shields.io/badge/Discord-282C34?logo=Discord&logoColor=7289DA" height="30" />
-<img src="https://img.shields.io/badge/Instagram-282C34?logo=Instagram" height="30" />
-<img src="https://img.shields.io/badge/Youtube-282C34?logo=Youtube&logoColor=FF0000" height="30" />
-<img src="https://img.shields.io/badge/Github-282C34?logo=Github" height="30" />
-</p> -->
-
 <p align="center">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=FFF" height="30" />
