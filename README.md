@@ -76,7 +76,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Node.js-83cd29?logo=node.js&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Express-FFF?logo=express&logoColor=000" height="30" />
-<img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/MongoDB-50AA41?logo=mongodb&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Django-44B78B?logo=Django&logoColor=FFF" height="30" />
@@ -84,7 +84,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/Tailwind%20CSS-38bdf8?logo=tailwind-css&logoColor=FFF" height="30" />
 <!-- Ocultos -->
 <img src="https://img.shields.io/badge/Flask-FFF?logo=flask&logoColor=000" height="30" />
-<img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=FFF" height="30" />
@@ -100,7 +100,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Azure-0078D4?logo=Microsoft%20Azure&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Next.js-FFF?logo=next.js&logoColor=000" height="30" />
-<img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=FFF" height="30" />
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=FFF" height="30" />
 <img src="https://img.shields.io/badge/Amazon%20AWS-202124?logo=amazon%20aws&logoColor=FF9900" height="30" />
