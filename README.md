@@ -65,7 +65,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/Premiere%20Pro-282C34?logo=Adobe%20Premiere%20Pro&logoColor=9999FF" height="30" />
 </p>
 
-## Socialss
+## Socials
 
 <!-- <p align="center">
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0A66C2" height="30" />
