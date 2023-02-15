@@ -68,7 +68,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 ## Socials
 
 <p align="center">
-<a href="https://www.linkedin.com/in/juanescacha" >
+<a href="https://www.linkedin.com/in/juanescacha" style="text-decoration:none;" >
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=FFF" height="30" />
 </a>
 <a href="https://twitter.com/juanescacha" >
