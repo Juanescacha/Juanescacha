@@ -20,7 +20,6 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 
 <div align="center">
 <img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="30" />
-<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3773A5" height="30" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cb8ff49f53d434d7f7cad2c5df73db1a/raw/b759d83b2849b6ae036a15341c25b3842f31c389/PythonBadge.json" height="30" />
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=F16525" height="30" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1DA1F2" height="30" />
