@@ -38,8 +38,6 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
   	<!-- <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="25" /> -->
   	<!-- <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" height="25" /> -->
   	<!-- <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="25" /> -->
-  	
-  	
 </p>
 
 ## Socials
