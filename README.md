@@ -89,5 +89,5 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 ## Support Me
 
 <a href="https://www.buymeacoffee.com/Juanescacha">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" />
 </a>
