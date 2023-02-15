@@ -35,6 +35,18 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" />
 <!-- Ocultos -->
+<img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=000000" height="30" />
+<img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" height="30" />
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="30" />
+<img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" height="30" />
+<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" height="30" />
+<img src="https://img.shields.io/badge/JQuery-282C34?logo=jquery&logoColor=0769AD" height="30" />
+<img src="https://img.shields.io/badge/Material%20Design-282C34?logo=material%20design&logoColor=757575" height="30" />
+<img src="https://img.shields.io/badge/Material%20UI-282C34?logo=mui&logoColor=007FFF" height="30" />
+<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" height="30" />
+<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" height="30" />
+<img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" height="30" />
+<img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" height="30" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" height="30" />
 <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=326CE5" height="30" />
 <img src="https://img.shields.io/badge/Azure-282C34?logo=Microsoft%20Azure&logoColor=0078D4" height="30" />
@@ -43,6 +55,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" height="30" />
 <img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon%20aws&logoColor=232F3E" height="30" />
 <img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel" height="30" />
+<img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" height="30" />
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" height="30" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="30" />
 <!-- Fin Ocultos -->
