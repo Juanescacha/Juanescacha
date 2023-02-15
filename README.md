@@ -21,21 +21,15 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <div align="center">
 <img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="30" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cb8ff49f53d434d7f7cad2c5df73db1a/raw/b759d83b2849b6ae036a15341c25b3842f31c389/PythonBadge.json" height="30" />
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=F16525" height="30" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/bc949d8e48f9c3f69ab180a0acb75ddc/raw/965104758dd44ce0fff8f0bc1782e96b03fc701a/HTML5Badge.json" height="30" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1DA1F2" height="30" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/987c260db470d3202ae9803e59f3db5e/raw/2de0e905b32bee989f37c7d4d739870d449d00c3/CSS3Badge.json" height="30" />
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="30" />
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=007acc" height="30" /> 
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cf8becfa3c1217cf3d39156fe645c6ce/raw/174df81e680932dc7a8d9623ed252317cc3fb116/TypescriptBadge.json" height="30" /> 
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" /> 
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="30" />
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=83cd29" height="30" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/bfb565fe15c3e3a55bb6340934be0bde/raw/576978d02e46cd10db5c991b12456771f342c3e0/NodejsBadge.json" height="30" />
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" height="30" />
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=50AA41" height="30" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/44687f32191b68d47040f137ed40c0c6/raw/92836b7d5eaa97b53173f26ef9bf28240cf6dbac/MongoDBBadge.json" height="30" />
-<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" height="30" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/c3def1dd495f7a7fc4d3dbb5710a2bbb/raw/8cf2494d791754b7edddbb8f6df5b19ad649c06f/PostgreSQLBadge.json" height="30" />
 <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=44B78B" height="30" />
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" />
@@ -65,13 +59,9 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" height="30" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="30" />
 -->
-<img src="https://img.shields.io/badge/Photoshop-282C34?logo=Adobe%20Photoshop&logoColor=31A8FF" height="30" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/f983d0698354ede1e88cedde67780f4b/raw/0231f651fe212eb6c8cb7db53d39f7c7d6a071d4/PhotoshopBadge.json" height="30" />
-<img src="https://img.shields.io/badge/Illustrator-282C34?logo=Adobe%20Illustrator&logoColor=FF9A00" height="30" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/b3984faf524291c417d0b92f1ff449b7/raw/31ba901cc116809828b1976be8f3b68f27efc1e2/IllustratorBadge.json" height="30" />
-<img src="https://img.shields.io/badge/After%20Effects-282C34?logo=Adobe%20After%20Effects&logoColor=9999FF" height="30" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/9aa1e045b30f751aa14285c8391ed98d/raw/48027d7e68f4ad215d1d2247b67dd13aa72c8503/AfterEffectsBadge.json" height="30" />
-<img src="https://img.shields.io/badge/Premiere%20Pro-282C34?logo=Adobe%20Premiere%20Pro&logoColor=9999FF" height="30" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/50e655a8598d2fac8d86bf5941768f6f/raw/7a97867a1b63ef2049ec7258d530f9b42d4cfc59/PremiereProBadge.json" height="30" />
 </div>
 
