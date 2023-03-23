@@ -5,7 +5,7 @@
 I'm a Full-Stack developer, I like to learn new things and I'm always looking for new challenges.
 
 -   🌍  I'm based in Cali, Colombia <!-- -   🖥️  See my [Portafolio](http://juanescacha.github.io) -->
--   ✉️  You can contact me [here](mailto:juanescacha@hotmail.com) <!-- -   🚀  I'm currently working on [aplicacion-name](http://myapp.com) -->
+-   ✉️  You can contact me [here](mailto:juanescacha@hotmail.com) <!-- -   🚀  I'm currently working on [application-name](http://myapp.com) -->
 -   🧠  I'm currently learning GraphQL and TypeScript
 -   🤝  I'm open to collaborate on open source projects
 
@@ -19,20 +19,37 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 ## Skills
 
 <div align="center">
+<!-- Go -->
 <img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="30" />
+<!-- Python -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cb8ff49f53d434d7f7cad2c5df73db1a/raw/b759d83b2849b6ae036a15341c25b3842f31c389/PythonBadge.json" height="30" />
+<!-- HTML5 -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/bc949d8e48f9c3f69ab180a0acb75ddc/raw/a53a9be59b710718baeb75443baef685b7b120c9/HTML5Badge.json" height="30" />
+<!-- CSS3 -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/987c260db470d3202ae9803e59f3db5e/raw/ce3f8d033892628cbe77513449f0faf17ea21b8d/CSS3Badge.json" height="30" />
+<!-- JavaScript -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/19ef3563ce77be936fb477ee77e4fdc2/raw/c8af0984f21b7b67462907a467cd5bb26d13e5c4/JavascriptBadge.json" height="30">
-<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cf8becfa3c1217cf3d39156fe645c6ce/raw/174df81e680932dc7a8d9623ed252317cc3fb116/TypescriptBadge.json" height="30" /> 
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" /> 
+<!-- TypeScript -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cf8becfa3c1217cf3d39156fe645c6ce/raw/174df81e680932dc7a8d9623ed252317cc3fb116/TypescriptBadge.json" height="30" />
+<!-- Vite -->
+<img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" height="30" />
+<!-- React -->
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" />
+<!-- Redux -->
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="30" />
+<!-- Nodejs -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/bfb565fe15c3e3a55bb6340934be0bde/raw/576978d02e46cd10db5c991b12456771f342c3e0/NodejsBadge.json" height="30" />
+<!-- Express -->
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" height="30" />
+<!-- MongoDB -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/44687f32191b68d47040f137ed40c0c6/raw/92836b7d5eaa97b53173f26ef9bf28240cf6dbac/MongoDBBadge.json" height="30" />
+<!-- PostgreSQL -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/c3def1dd495f7a7fc4d3dbb5710a2bbb/raw/8cf2494d791754b7edddbb8f6df5b19ad649c06f/PostgreSQLBadge.json" height="30" />
+<!-- Django -->
 <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=44B78B" height="30" />
+<!-- GraphQL -->
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" />
+<!-- Tailwind CSS -->
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" />
 <!-- 
 <img src="https://img.shields.io/badge/Flask-282C34?logo=flask" height="30" />
@@ -59,9 +76,13 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" height="30" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="30" />
 -->
+<!-- Photoshop -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/f983d0698354ede1e88cedde67780f4b/raw/0231f651fe212eb6c8cb7db53d39f7c7d6a071d4/PhotoshopBadge.json" height="30" />
+<!-- Illustrator -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/b3984faf524291c417d0b92f1ff449b7/raw/31ba901cc116809828b1976be8f3b68f27efc1e2/IllustratorBadge.json" height="30" />
+<!-- After Effects -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/9aa1e045b30f751aa14285c8391ed98d/raw/48027d7e68f4ad215d1d2247b67dd13aa72c8503/AfterEffectsBadge.json" height="30" />
+<!-- Premiere Pro -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/50e655a8598d2fac8d86bf5941768f6f/raw/7a97867a1b63ef2049ec7258d530f9b42d4cfc59/PremiereProBadge.json" height="30" />
 </div>
 
