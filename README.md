@@ -89,7 +89,7 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <!-- Amazon AWS -->
 <!-- <img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon%20aws" height="30" /> -->
 <!-- Vercel -->
-<!-- <img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel" height="30" /> -->
+<img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel" height="30" />
 <!-- Render -->
 <!-- <img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" height="30" /> -->
 <!-- Git -->
