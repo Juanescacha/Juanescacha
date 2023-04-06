@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD030 MD033 -->
 <!-- # Hi 👋 My name is Juanes -->
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" /> My name is Juanes
@@ -51,52 +52,53 @@ I'm a Full-Stack developer, I like to learn new things and I'm always looking fo
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" />
 <!-- Tailwind CSS -->
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" />
-<!-- 
-Flask
-<img src="https://img.shields.io/badge/Flask-282C34?logo=flask" height="30" />
-FastAPI
-<img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" height="30" />
-MYSQL
-<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="30" />
-Netlify
-<img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" height="30" />
-Bootstrap
-<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" height="30" />
-JQuery
-<img src="https://img.shields.io/badge/JQuery-282C34?logo=jquery&logoColor=0769AD" height="30" />
-Material Design
-<img src="https://img.shields.io/badge/Material%20Design-282C34?logo=material%20design&logoColor=757575" height="30" />
-Material UI
-<img src="https://img.shields.io/badge/Material%20UI-282C34?logo=mui&logoColor=007FFF" height="30" />
-Vue.js
-<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" height="30" />
-Angular
-<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" height="30" />
-PHP
-<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" height="30" />
-Spring
-<img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" height="30" />
-Ruby
-<img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" height="30" />
-Docker
-<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" height="30" />
-Kubernetes
-<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=326CE5" height="30" />
-Microsoft Azure
-<img src="https://img.shields.io/badge/Azure-282C34?logo=Microsoft%20Azure&logoColor=0078D4" height="30" />
-Next.js
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" />
-Amazon AWS
-<img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon%20aws" height="30" />
-Vercel
-<img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel" height="30" />
-Render
-<img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" height="30" />
-Git
+<!-- Flask -->
+<!-- <img src="https://img.shields.io/badge/Flask-282C34?logo=flask" height="30" /> -->
+<!-- FastAPI -->
+<!-- <img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" height="30" /> -->
+<!-- MYSQL -->
+<!-- <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="30" /> -->
+<!-- Netlify -->
+<!-- <img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" height="30" /> -->
+<!-- Bootstrap -->
+<!-- <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" height="30" /> -->
+<!-- JQuery -->
+<!-- <img src="https://img.shields.io/badge/JQuery-282C34?logo=jquery&logoColor=0769AD" height="30" /> -->
+<!-- Material Design -->
+<!-- <img src="https://img.shields.io/badge/Material%20Design-282C34?logo=material%20design&logoColor=757575" height="30" /> -->
+<!-- Material UI -->
+<!-- <img src="https://img.shields.io/badge/Material%20UI-282C34?logo=mui&logoColor=007FFF" height="30" /> -->
+<!-- Vue.js -->
+<!-- <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" height="30" /> -->
+<!-- Angular -->
+<!-- <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" height="30" /> -->
+<!-- PHP -->
+<!-- <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" height="30" /> -->
+<!-- Spring -->
+<!-- <img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" height="30" /> -->
+<!-- Ruby -->
+<!-- <img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" height="30" /> -->
+<!-- Docker -->
+<!-- <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" height="30" /> -->
+<!-- Kubernetes -->
+<!-- <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=326CE5" height="30" /> -->
+<!-- Microsoft Azure -->
+<!-- <img src="https://img.shields.io/badge/Azure-282C34?logo=Microsoft%20Azure&logoColor=0078D4" height="30" /> -->
+<!-- Next.js -->
+<!-- <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" /> -->
+<!-- Amazon AWS -->
+<!-- <img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon%20aws" height="30" /> -->
+<!-- Vercel -->
+<!-- <img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel" height="30" /> -->
+<!-- Render -->
+<!-- <img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" height="30" /> -->
+<!-- Git -->
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" height="30" />
-VS Code
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="30" />
--->
+<!-- VS Code -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/8495419d119e7e3e4354da231f3d7ac5/raw/31ba766a522f8ef4975917f2497540b7e52efe50/VSCodeBadge.json" height="30" />
+
+<!-- Creative -->
+
 <!-- Photoshop -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/f983d0698354ede1e88cedde67780f4b/raw/0231f651fe212eb6c8cb7db53d39f7c7d6a071d4/PhotoshopBadge.json" height="30" />
 <!-- Illustrator -->
