@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD030 MD033 -->
 <!-- # Hi 👋 My name is Juanes -->
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" /> My name is Juanes
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" /> I'm Juanes
 
 I'm a Full-Stack developer, I like to learn new things and I'm always looking for new challenges.
 
