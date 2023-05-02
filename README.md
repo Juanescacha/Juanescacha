@@ -1,14 +1,15 @@
 <!-- markdownlint-disable MD030 MD033 -->
-<!-- # Hi 👋 My name is Juanes -->
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" /> I'm Juanes
 
-I'm a Full-Stack developer, I like to learn new things and I'm always looking for new challenges.
+I'm a Full-Stack Developer, I like to learn new things and I'm always looking for new challenges.
 
--   🌍  I'm based in Cali, Colombia <!-- -   🖥️  See my [Portafolio](http://juanescacha.github.io) -->
--   ✉️  You can contact me [here](mailto:juanescacha@hotmail.com) <!-- -   🚀  I'm currently working on [application-name](http://myapp.com) -->
--   🧠  I'm currently learning GraphQL and TypeScript
+-   🌍  I'm based in Cali, Colombia
+-   🖥️  See my [Portafolio](http://juanescacha.github.io)
+-   ✉️  You can contact me [here](https://www.linkedin.com/in/juanescacha/)
 -   🤝  I'm open to collaborate on open source projects
+-   🧠  I'm currently learning Next.js
+<!-- -   🚀  I'm currently working on [application-name](http://myapp.com) -->
 
 ## Skills
 
