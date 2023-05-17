@@ -2,14 +2,14 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" /> I'm Juanes
 
-I'm a Full-Stack Developer, I like to learn new things and I'm always looking for new challenges.
+I'm a Software Engineer with an emphasis on Front-end development, I like to learn new things and I'm always looking for new challenges.
 
--   🌍  I'm based in Cali, Colombia
 -   🖥️  See my [Portafolio](http://juanescacha.github.io)
--   ✉️  You can contact me [here](https://www.linkedin.com/in/juanescacha/)
+-   🌍  I'm based in Cali, Colombia
 -   🤝  I'm open to collaborate on open source projects
--   🧠  I'm currently learning Next.js
+-   🧠  I'm currently learning NestJS
 <!-- -   🚀  I'm currently working on [application-name](http://myapp.com) -->
+-   ✉️  You can contact me [here](https://www.linkedin.com/in/juanescacha/)
 
 ## Skills
 
