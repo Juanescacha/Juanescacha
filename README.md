@@ -8,9 +8,8 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 -   🌍  I'm based in Cali, Colombia
 -   🤝  I'm open to collaborate on open source projects
 -   🧠  I'm currently learning NestJS
-<!-- -   🚀  I'm currently working on [application-name](http://myapp.com) -->
 -   ✉️  You can contact me [here](https://www.linkedin.com/in/juanescacha/)
-
+<!-- -   🚀  I'm currently working on [application-name](http://myapp.com) -->
 ## Skills
 
 <div align="center">
