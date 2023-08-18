@@ -10,6 +10,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 -   🧠  I'm currently learning NestJS
 -   ✉️  You can contact me [here](https://www.linkedin.com/in/juanescacha/)
 <!-- -   🚀  I'm currently working on [application-name](http://myapp.com) -->
+
 ## Skills
 
 <div align="center">
@@ -29,6 +30,8 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/4803fdf95acc4cef4b8256ea98d86ceb/raw/629bb4e5b2857579bd39e35e8014758fb06167c6/viteBadge.json" height="30" />
 <!-- React -->
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" />
+<!-- Vue.js -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0b097ee0815aac83a2432c2869361f0c/raw/d9e777e5433e61a1ca8b654e2f40b24e07b7a719/VueBadge.json" height="30" />
 <!-- Redux -->
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="30" />
 <!-- Nodejs -->
@@ -61,8 +64,6 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- <img src="https://img.shields.io/badge/Material%20Design-282C34?logo=material%20design&logoColor=757575" height="30" /> -->
 <!-- Material UI -->
 <!-- <img src="https://img.shields.io/badge/Material%20UI-282C34?logo=mui&logoColor=007FFF" height="30" /> -->
-<!-- Vue.js -->
-<!-- <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" height="30" /> -->
 <!-- Angular -->
 <!-- <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" height="30" /> -->
 <!-- PHP -->
