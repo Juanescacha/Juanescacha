@@ -31,7 +31,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- React -->
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" />
 <!-- Vue.js -->
-<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0b097ee0815aac83a2432c2869361f0c/raw/d9e777e5433e61a1ca8b654e2f40b24e07b7a719/VueBadge.json" height="30" />
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0b097ee0815aac83a2432c2869361f0c/raw/f177f93479fb4d058e2534d3a6be87072fb0cf68/VueBadge.json" height="30" />
 <!-- Redux -->
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="30" />
 <!-- Nodejs -->
