@@ -92,6 +92,10 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="30" />
 <!-- VS Code -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/8495419d119e7e3e4354da231f3d7ac5/raw/31ba766a522f8ef4975917f2497540b7e52efe50/VSCodeBadge.json" height="30" />
+<!-- Confluence -->
+<!-- Jira -->
+<!-- Notion -->
+<!-- Microsoft Teams -->
 
 <!-- Creative -->
 <!-- Figma -->
@@ -117,6 +121,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=FFF" height="30" />](https://www.instagram.com/juanescacha_)
 [<img src="https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=FFF" height="30" />](https://www.youtube.com/juanescacha)
 [<img src="https://img.shields.io/badge/Github-000?logo=Github&logoColor=FFF" height="30" />](https://www.github.com/juanescacha)
+[<img src="https://img.shields.io/badge/Github-000?logo=Github&logoColor=FFF" height="30" />](#)
 
 </div>
 
