@@ -14,7 +14,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 ## Skills
 
 <div align="center">
-<!-- Go -->
+[<!-- Go -->
 <img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="30" />
 <!-- Python -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cb8ff49f53d434d7f7cad2c5df73db1a/raw/b759d83b2849b6ae036a15341c25b3842f31c389/PythonBadge.json" height="30" />
@@ -108,6 +108,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/9aa1e045b30f751aa14285c8391ed98d/raw/48027d7e68f4ad215d1d2247b67dd13aa72c8503/AfterEffectsBadge.json" height="30" />
 <!-- Premiere Pro -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/50e655a8598d2fac8d86bf5941768f6f/raw/7a97867a1b63ef2049ec7258d530f9b42d4cfc59/PremiereProBadge.json" height="30" />
+](#)
 </div>
 
 ## Socials
@@ -121,7 +122,6 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=FFF" height="30" />](https://www.instagram.com/juanescacha_)
 [<img src="https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=FFF" height="30" />](https://www.youtube.com/juanescacha)
 [<img src="https://img.shields.io/badge/Github-000?logo=Github&logoColor=FFF" height="30" />](https://www.github.com/juanescacha)
-[<img src="https://img.shields.io/badge/Github-000?logo=Github&logoColor=FFF" height="30" />](#)
 
 </div>
 
