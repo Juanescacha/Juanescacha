@@ -5,10 +5,10 @@
 I'm a Software Engineer with an emphasis on Front-end development, I like to learn new things and I'm always looking for new challenges.
 
 -   🖥️  See my [Portafolio](http://juanescacha.github.io)
--   🌍  I'm based in Cali, Colombia
 -   🤝  I'm open to collaborate on open source projects
--   🧠  I'm currently learning NestJS
+-   🧠  I'm currently learning Accessibility
 -   ✉️  You can contact me [here](https://www.linkedin.com/in/juanescacha/)
+-   🌍  I'm based in Cali, Colombia
 <!-- -   🚀  I'm currently working on [application-name](http://myapp.com) -->
 
 ## Skills
