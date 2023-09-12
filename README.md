@@ -79,22 +79,23 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- Kubernetes -->
 <!-- <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=326CE5" height="30" /> -->
 <!-- Microsoft Azure -->
-<!-- <img src="https://img.shields.io/badge/Azure-282C34?logo=Microsoft%20Azure&logoColor=0078D4" height="30" /> -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/4a05071ea690d8880bd2f77ba98389da/raw/f4ae2318944244440f420c0bc0e5d974c31c7c0c/AzureBadge.json" height="30" />
 <!-- Next.js -->
-<!-- <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" /> -->
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" />
 <!-- Amazon AWS -->
 <!-- <img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon%20aws" height="30" /> -->
 <!-- Vercel -->
 <img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel" height="30" />
 <!-- Render -->
-<!-- <img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" height="30" /> -->
+<img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" height="30" />
 <!-- Git -->
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="30" />
 <!-- VS Code -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/8495419d119e7e3e4354da231f3d7ac5/raw/31ba766a522f8ef4975917f2497540b7e52efe50/VSCodeBadge.json" height="30" />
 
 <!-- Creative -->
-
+<!-- Figma -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/106f4ddcc3d87c4bacf2e48dd6f5d753/raw/44dbc59c64b2adc556ff299fd6deb3dce996f5e4/FigmaBadge.json" height="30" />
 <!-- Photoshop -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/f983d0698354ede1e88cedde67780f4b/raw/0231f651fe212eb6c8cb7db53d39f7c7d6a071d4/PhotoshopBadge.json" height="30" />
 <!-- Illustrator -->
