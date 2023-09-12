@@ -27,7 +27,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- TypeScript -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cf8becfa3c1217cf3d39156fe645c6ce/raw/174df81e680932dc7a8d9623ed252317cc3fb116/TypescriptBadge.json" height="30" />
 <!-- Npm -->
-<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/ef1695226e8ec433db7e51e195f8a426/raw/eae03bb66bd8ed94f51b7306996475d8b0f918dc/NpmBadge.json" height="30" />
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/ef1695226e8ec433db7e51e195f8a426/raw/4bd59166757e099319a9b879c0b3c411d3045473/NpmBadge.json" height="30" />
 <!-- Vite -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/4803fdf95acc4cef4b8256ea98d86ceb/raw/629bb4e5b2857579bd39e35e8014758fb06167c6/viteBadge.json" height="30" />
 <!-- React -->
