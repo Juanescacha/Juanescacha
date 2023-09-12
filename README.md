@@ -34,6 +34,8 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" />
 <!-- Vue.js -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0b097ee0815aac83a2432c2869361f0c/raw/f177f93479fb4d058e2534d3a6be87072fb0cf68/VueBadge.json" height="30" />
+<!-- Next.js -->
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" />
 <!-- Redux -->
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="30" />
 <!-- Nodejs -->
@@ -80,8 +82,6 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=326CE5" height="30" /> -->
 <!-- Microsoft Azure -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/4a05071ea690d8880bd2f77ba98389da/raw/f4ae2318944244440f420c0bc0e5d974c31c7c0c/AzureBadge.json" height="30" />
-<!-- Next.js -->
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" />
 <!-- Amazon AWS -->
 <!-- <img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon%20aws" height="30" /> -->
 <!-- Vercel -->
