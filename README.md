@@ -35,7 +35,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- Redux -->
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="30" />
 <!-- Nodejs -->
-<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/bfb565fe15c3e3a55bb6340934be0bde/raw/576978d02e46cd10db5c991b12456771f342c3e0/NodejsBadge.json" height="30" />
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/bfb565fe15c3e3a55bb6340934be0bde/raw/f282aaa20cb0b09445ada06bcf37fa97804613aa/NodejsBadge.json" height="30" />
 <!-- Express -->
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" height="30" />
 <!-- MongoDB -->
