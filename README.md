@@ -14,7 +14,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 ## Skills
 
 <div align="center">
-[<!-- Go -->
+<!-- Go -->
 <img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="30" />
 <!-- Python -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cb8ff49f53d434d7f7cad2c5df73db1a/raw/b759d83b2849b6ae036a15341c25b3842f31c389/PythonBadge.json" height="30" />
@@ -93,9 +93,13 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- VS Code -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/8495419d119e7e3e4354da231f3d7ac5/raw/31ba766a522f8ef4975917f2497540b7e52efe50/VSCodeBadge.json" height="30" />
 <!-- Confluence -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0df5b6bcb05ff0ef752c7a4ef7bb4367/raw/2b90036b43974be2933d46e2a137bc45ed8ca6d7/ConfluenceBadge.json" height="30" />
 <!-- Jira -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/2acc45736a576f0af5328a1c7394b58e/raw/87a0b70a8817cf163107d520fe1858ccc4902978/JiraBadge.json" height="30" />
 <!-- Notion -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0a04d3656d0ceab9f4bbeec33da8a802/raw/80efd176acbe2c4903b51119919e878a726f5639/NotionBadge.json" height="30" />
 <!-- Microsoft Teams -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0c27d344a2eddae2df0f8e43ade19433/raw/1d2e60a1d0498b7278ae32f90052e6d0e12213ae/TeamsBadge.json" height="30" />
 
 <!-- Creative -->
 <!-- Figma -->
@@ -108,7 +112,6 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/9aa1e045b30f751aa14285c8391ed98d/raw/48027d7e68f4ad215d1d2247b67dd13aa72c8503/AfterEffectsBadge.json" height="30" />
 <!-- Premiere Pro -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/50e655a8598d2fac8d86bf5941768f6f/raw/7a97867a1b63ef2049ec7258d530f9b42d4cfc59/PremiereProBadge.json" height="30" />
-](#)
 </div>
 
 ## Socials
