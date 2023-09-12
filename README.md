@@ -57,7 +57,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- MYSQL -->
 <!-- <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="30" /> -->
 <!-- Netlify -->
-<!-- <img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" height="30" /> -->
+<img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" height="30" />
 <!-- Bootstrap -->
 <!-- <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" height="30" /> -->
 <!-- JQuery -->
