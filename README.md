@@ -26,6 +26,8 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/19ef3563ce77be936fb477ee77e4fdc2/raw/c8af0984f21b7b67462907a467cd5bb26d13e5c4/JavascriptBadge.json" height="30">
 <!-- TypeScript -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cf8becfa3c1217cf3d39156fe645c6ce/raw/174df81e680932dc7a8d9623ed252317cc3fb116/TypescriptBadge.json" height="30" />
+<!-- Npm -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/ef1695226e8ec433db7e51e195f8a426/raw/eae03bb66bd8ed94f51b7306996475d8b0f918dc/NpmBadge.json" height="30" />
 <!-- Vite -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/4803fdf95acc4cef4b8256ea98d86ceb/raw/629bb4e5b2857579bd39e35e8014758fb06167c6/viteBadge.json" height="30" />
 <!-- React -->
@@ -87,7 +89,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- Render -->
 <!-- <img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" height="30" /> -->
 <!-- Git -->
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" height="30" />
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="30" />
 <!-- VS Code -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/8495419d119e7e3e4354da231f3d7ac5/raw/31ba766a522f8ef4975917f2497540b7e52efe50/VSCodeBadge.json" height="30" />
 
