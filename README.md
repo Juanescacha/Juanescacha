@@ -15,9 +15,9 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 
 <div align="center">
 <!-- Go -->
-<img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="30" />
+<!-- <img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="30" /> -->
 <!-- Python -->
-<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cb8ff49f53d434d7f7cad2c5df73db1a/raw/b759d83b2849b6ae036a15341c25b3842f31c389/PythonBadge.json" height="30" />
+<!-- <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cb8ff49f53d434d7f7cad2c5df73db1a/raw/b759d83b2849b6ae036a15341c25b3842f31c389/PythonBadge.json" height="30" /> -->
 <!-- HTML5 -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/bc949d8e48f9c3f69ab180a0acb75ddc/raw/a53a9be59b710718baeb75443baef685b7b120c9/HTML5Badge.json" height="30" />
 <!-- CSS3 -->
@@ -26,18 +26,20 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/19ef3563ce77be936fb477ee77e4fdc2/raw/c8af0984f21b7b67462907a467cd5bb26d13e5c4/JavascriptBadge.json" height="30">
 <!-- TypeScript -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cf8becfa3c1217cf3d39156fe645c6ce/raw/174df81e680932dc7a8d9623ed252317cc3fb116/TypescriptBadge.json" height="30" />
-<!-- Npm -->
-<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/ef1695226e8ec433db7e51e195f8a426/raw/4bd59166757e099319a9b879c0b3c411d3045473/NpmBadge.json" height="30" />
 <!-- Vite -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/4803fdf95acc4cef4b8256ea98d86ceb/raw/629bb4e5b2857579bd39e35e8014758fb06167c6/viteBadge.json" height="30" />
-<!-- React -->
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" />
+<!-- Vitest -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/7d59c2c5527fe9fbb69a85755809c75c/raw/bc84d43749fb88eab5b433057c1da49a5b997d03/VitestBadge.json" height="30" />
 <!-- Vue.js -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0b097ee0815aac83a2432c2869361f0c/raw/f177f93479fb4d058e2534d3a6be87072fb0cf68/VueBadge.json" height="30" />
+<!-- React -->
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" />
 <!-- Next.js -->
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" />
+<!-- <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" /> -->
 <!-- Redux -->
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="30" />
+<!-- Npm -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/ef1695226e8ec433db7e51e195f8a426/raw/4bd59166757e099319a9b879c0b3c411d3045473/NpmBadge.json" height="30" />
 <!-- Nodejs -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/bfb565fe15c3e3a55bb6340934be0bde/raw/f282aaa20cb0b09445ada06bcf37fa97804613aa/NodejsBadge.json" height="30" />
 <!-- Express -->
@@ -47,7 +49,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- PostgreSQL -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/c3def1dd495f7a7fc4d3dbb5710a2bbb/raw/8cf2494d791754b7edddbb8f6df5b19ad649c06f/PostgreSQLBadge.json" height="30" />
 <!-- Django -->
-<img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=44B78B" height="30" />
+<!-- <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=44B78B" height="30" /> -->
 <!-- GraphQL -->
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" />
 <!-- Tailwind CSS -->
@@ -58,8 +60,6 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- <img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" height="30" /> -->
 <!-- MYSQL -->
 <!-- <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="30" /> -->
-<!-- Netlify -->
-<img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" height="30" />
 <!-- Bootstrap -->
 <!-- <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" height="30" /> -->
 <!-- JQuery -->
@@ -82,6 +82,8 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=326CE5" height="30" /> -->
 <!-- Amazon AWS -->
 <!-- <img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon%20aws" height="30" /> -->
+<!-- Netlify -->
+<img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" height="30" />
 <!-- Vercel -->
 <img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel" height="30" />
 <!-- Render -->
@@ -96,11 +98,10 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0df5b6bcb05ff0ef752c7a4ef7bb4367/raw/2b90036b43974be2933d46e2a137bc45ed8ca6d7/ConfluenceBadge.json" height="30" />
 <!-- Jira -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/2acc45736a576f0af5328a1c7394b58e/raw/87a0b70a8817cf163107d520fe1858ccc4902978/JiraBadge.json" height="30" />
-<!-- Notion -->
-<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0a04d3656d0ceab9f4bbeec33da8a802/raw/80efd176acbe2c4903b51119919e878a726f5639/NotionBadge.json" height="30" />
 <!-- Microsoft Teams -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0c27d344a2eddae2df0f8e43ade19433/raw/1d2e60a1d0498b7278ae32f90052e6d0e12213ae/TeamsBadge.json" height="30" />
-
+<!-- Notion -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0a04d3656d0ceab9f4bbeec33da8a802/raw/80efd176acbe2c4903b51119919e878a726f5639/NotionBadge.json" height="30" />
 <!-- Creative -->
 <!-- Figma -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/106f4ddcc3d87c4bacf2e48dd6f5d753/raw/44dbc59c64b2adc556ff299fd6deb3dce996f5e4/FigmaBadge.json" height="30" />
