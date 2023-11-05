@@ -54,6 +54,8 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" />
 <!-- Tailwind CSS -->
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" />
+<!-- Sass -->
+ <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/f244844a18d3634a7d78d4e468a0afcd/raw/c0573ca4f40dd35e8ff9dcc4b0fa7cee48ab222a/SassBadge.json" height="30" />
 <!-- Flask -->
 <!-- <img src="https://img.shields.io/badge/Flask-282C34?logo=flask" height="30" /> -->
 <!-- FastAPI -->
