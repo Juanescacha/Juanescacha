@@ -52,8 +52,8 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=44B78B" height="30" /> -->
 <!-- GraphQL -->
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" />
-<!-- Tailwind CSS -->
-<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" />
+<!-- Tailwind -->
+<img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" />
 <!-- Sass -->
  <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/f244844a18d3634a7d78d4e468a0afcd/raw/dc260fc38f15b8e76d185b238f652cf5f9ca09fc/SassBadge.json" height="30" />
 <!-- Flask -->
