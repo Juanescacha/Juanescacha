@@ -23,7 +23,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- CSS3 -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/987c260db470d3202ae9803e59f3db5e/raw/ce3f8d033892628cbe77513449f0faf17ea21b8d/CSS3Badge.json" height="30" />
 <!-- JavaScript -->
-<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/19ef3563ce77be936fb477ee77e4fdc2/raw/7dc0e81481f03e38be1026b3152ad577c00f8ce5/JavascriptBadge.json" height="30">
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/19ef3563ce77be936fb477ee77e4fdc2/raw/4b45b833d48b9b4262f77d6fb0ca0e127d064e78/JavascriptBadge.json" height="30">
 <!-- TypeScript -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cf8becfa3c1217cf3d39156fe645c6ce/raw/174df81e680932dc7a8d9623ed252317cc3fb116/TypescriptBadge.json" height="30" />
 <!-- Vite -->
