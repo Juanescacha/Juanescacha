@@ -56,6 +56,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" />
 <!-- Sass -->
  <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/f244844a18d3634a7d78d4e468a0afcd/raw/dc260fc38f15b8e76d185b238f652cf5f9ca09fc/SassBadge.json" height="30" />
+ <br />
 <!-- Flask -->
 <!-- <img src="https://img.shields.io/badge/Flask-282C34?logo=flask" height="30" /> -->
 <!-- FastAPI -->
@@ -105,9 +106,9 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- Notion -->
 <!-- <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0a04d3656d0ceab9f4bbeec33da8a802/raw/80efd176acbe2c4903b51119919e878a726f5639/NotionBadge.json" height="30" /> -->
 <!-- Creative -->
-<br />
 <!-- Figma -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/106f4ddcc3d87c4bacf2e48dd6f5d753/raw/44dbc59c64b2adc556ff299fd6deb3dce996f5e4/FigmaBadge.json" height="30" />
+<br />
 <!-- Photoshop -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/f983d0698354ede1e88cedde67780f4b/raw/0231f651fe212eb6c8cb7db53d39f7c7d6a071d4/PhotoshopBadge.json" height="30" />
 <!-- Illustrator -->
