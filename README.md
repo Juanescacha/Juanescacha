@@ -105,6 +105,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- Notion -->
 <!-- <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0a04d3656d0ceab9f4bbeec33da8a802/raw/80efd176acbe2c4903b51119919e878a726f5639/NotionBadge.json" height="30" /> -->
 <!-- Creative -->
+<br />
 <!-- Figma -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/106f4ddcc3d87c4bacf2e48dd6f5d753/raw/44dbc59c64b2adc556ff299fd6deb3dce996f5e4/FigmaBadge.json" height="30" />
 <!-- Photoshop -->
