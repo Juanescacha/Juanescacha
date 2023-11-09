@@ -135,7 +135,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 
 ## GitHub Stats
 
-| <img src="https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark" /> | <img src="https://readmestats.999857.xyz/api/top-langs/?username=juanescachaa&langs_count=6&hide_border=true&layout=compact&theme=dark" /> |
+| <img src="https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark" /> | <img src="https://readmestats.999857.xyz/api/top-langs/?username=juanescacha&langs_count=6&hide_border=true&layout=compact&theme=dark" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
 
 <img src="https://komarev.com/ghpvc/?username=juanescacha">
