@@ -132,11 +132,13 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 [<img src="https://img.shields.io/badge/Github-000?logo=Github&logoColor=FFF" height="30" />](https://www.github.com/juanescacha)
 
 </div>
+<!-- https://readmestats.999857.xyz/api/top-langs/?username=juanescacha&langs_count=6&hide_border=true&layout=compact&theme=dark -->
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&hide=xd&layout=compact&hide_border=true&theme=dark -->
 
 ## GitHub Stats
 
-| <img src="https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&hide=xd&layout=compact&hide_border=true&theme=dark" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark" /> | <img src="https://readmestats.999857.xyz/api/top-langs/?username=juanescacha&langs_count=6&hide_border=true&layout=compact&theme=dark" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
 
 <img src="https://komarev.com/ghpvc/?username=juanescacha">
 
