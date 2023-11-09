@@ -133,12 +133,12 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 
 </div>
 <!-- https://readmestats.999857.xyz/api/top-langs/?username=juanescacha&langs_count=6&hide_border=true&layout=compact&theme=dark -->
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=dark -->
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=transparent -->
 
 ## GitHub Stats
 
-| <img src="https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark" /> | <img src="https://readmestats.999857.xyz/api/top-langs/?username=juanescacha&hide_border=true&layout=compact&langs_count=6&theme=dark" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=transparent" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <img src="https://komarev.com/ghpvc/?username=juanescacha">
 
