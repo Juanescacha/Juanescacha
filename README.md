@@ -139,12 +139,12 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 
 <picture>
 	<source srcset="https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=light" media="(prefers-color-scheme: light)" />
-	<img src="https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark" />
+	<img src="https://readme-stats-delivery-klad.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0000000" />
 </picture>
 
 <picture>
 	<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=light" media="(prefers-color-scheme: light)"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=transparent&title_color=fff" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=dark&bg_color=0000000" />
 </picture>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=juanescacha"> -->
