@@ -146,7 +146,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
     srcset="https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=light"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=light" height=200 align="center" />
+  <img src="https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=light" height=193 />
 </picture>
 
 <picture>
@@ -158,7 +158,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=light"
     media="(prefers-color-scheme: light)"
   />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=light" height=200 align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=light" height=193 />
 </picture>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=juanescacha"> -->
