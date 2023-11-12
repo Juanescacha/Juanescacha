@@ -140,7 +140,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <picture>
   <source
     srcset="https://readme-stats-delivery-klad.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=00000000"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
     srcset="https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=light"
@@ -151,7 +151,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=dark&bg_color=00000000"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=light"
