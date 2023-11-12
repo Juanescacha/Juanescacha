@@ -137,13 +137,13 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 
 ## GitHub Stats
 
-[![Juanescacha's Github stats-Light](https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=light#gh-light-mode-only)](https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=light#gh-light-mode-only)
+![Juanescacha's Github stats Light](https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=light#gh-light-mode-only)
 
-[![Juanescacha's Github stats-Dark](https://readme-stats-delivery-klad.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://readme-stats-delivery-klad.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)
+![Juanescacha's Github stats Dark](https://readme-stats-delivery-klad.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)
 
-[![Juanescacha's most used languages-light](https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=light#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=light#gh-light-mode-only)
+![Juanescacha's most used languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=light#gh-light-mode-only)
 
-[![Juanescacha's most used languages-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)
+![Juanescacha's most used languages Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=juanescacha"> -->
 
