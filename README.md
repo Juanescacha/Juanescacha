@@ -137,15 +137,13 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 
 ## GitHub Stats
 
-<picture>
-	<source srcset="https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=light" media="(prefers-color-scheme: light)" />
-	<img src="https://readme-stats-delivery-klad.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0000000" />
-</picture>
+[![Juanescacha's Github stats-Light](https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=light)](https://readmestats.999857.xyz/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=light)
 
-<picture>
-	<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=light" media="(prefers-color-scheme: light)"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=dark&bg_color=0000000" />
-</picture>
+[![Juanescacha's Github stats-Dark](https://readme-stats-delivery-klad.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0000000)](https://readme-stats-delivery-klad.vercel.app/api?username=juanescacha&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0000000)
+
+[![Juanescacha's most used languages-light](https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=light)](https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=light)
+
+[![Juanescacha's most used languages-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=dark&bg_color=0000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=dark&bg_color=0000000)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=juanescacha"> -->
 
