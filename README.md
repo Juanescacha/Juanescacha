@@ -6,7 +6,7 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 
 -   🖥️  See my [Portafolio](http://juanescacha.github.io)
 -   🤝  I'm open to collaborate on open source projects
--   🧠  I'm currently learning Accessibility
+-   🧠  I'm currently preparing for the [Vue Developer Certificate](https://certificates.dev/vuejs)
 -   ✉️  You can contact me [here](https://www.linkedin.com/in/juanescacha/)
 -   🌍  I'm based in Cali, Colombia
 <!-- -   🚀  I'm currently working on [application-name](http://myapp.com) -->
