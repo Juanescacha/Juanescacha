@@ -26,20 +26,19 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/19ef3563ce77be936fb477ee77e4fdc2/raw/4b45b833d48b9b4262f77d6fb0ca0e127d064e78/JavascriptBadge.json" height="30">
 <!-- TypeScript -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cf8becfa3c1217cf3d39156fe645c6ce/raw/174df81e680932dc7a8d9623ed252317cc3fb116/TypescriptBadge.json" height="30" />
-<!-- Vite -->
-<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/4803fdf95acc4cef4b8256ea98d86ceb/raw/629bb4e5b2857579bd39e35e8014758fb06167c6/viteBadge.json" height="30" />
 <!-- Vue.js -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0b097ee0815aac83a2432c2869361f0c/raw/f177f93479fb4d058e2534d3a6be87072fb0cf68/VueBadge.json" height="30" />
 <!-- React -->
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" />
-<!-- Vitest -->
-<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/7d59c2c5527fe9fbb69a85755809c75c/raw/bc84d43749fb88eab5b433057c1da49a5b997d03/VitestBadge.json" height="30" />
+ <!-- Next.js -->
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" />
+<!-- Vite -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/4803fdf95acc4cef4b8256ea98d86ceb/raw/629bb4e5b2857579bd39e35e8014758fb06167c6/viteBadge.json" height="30" />
+<br />
 <!-- Tailwind -->
 <img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" />
 <!-- Sass -->
  <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/f244844a18d3634a7d78d4e468a0afcd/raw/dc260fc38f15b8e76d185b238f652cf5f9ca09fc/SassBadge.json" height="30" />
-<!-- Next.js -->
-<!-- <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" /> -->
 <!-- Redux -->
 <!-- <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="30" /> -->
 <!-- Npm -->
@@ -56,7 +55,9 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=44B78B" height="30" /> -->
 <!-- GraphQL -->
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" />
- <br />
+<br />
+ <!-- Vitest -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/7d59c2c5527fe9fbb69a85755809c75c/raw/bc84d43749fb88eab5b433057c1da49a5b997d03/VitestBadge.json" height="30" />
 <!-- Flask -->
 <!-- <img src="https://img.shields.io/badge/Flask-282C34?logo=flask" height="30" /> -->
 <!-- FastAPI -->
@@ -124,11 +125,12 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <div align="center">
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=FFF" height="30" />](https://www.linkedin.com/in/juanescacha)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=FFF" height="30" />](https://twitter.com/juanescacha)
+<!-- [<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=FFF" height="30" />](https://twitter.com/juanescacha)
 [<img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=FFF" height="30" />](https://www.twitch.tv/juanescacha_)
 [<img src="https://img.shields.io/badge/Discord-7289DA?logo=Discord&logoColor=FFF" height="30" />](https://discord.com/users/736992692277608459)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=FFF" height="30" />](https://www.instagram.com/juanescacha_)
-[<img src="https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=FFF" height="30" />](https://www.youtube.com/juanescacha)
+[<img src="https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=FFF" height="30" />](https://www.youtube.com/juanescacha) -->
+[<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/9803bf18bc595d9946e16cad0af5d34e/raw/e60668138858b1d2700113cca1fb7e026b420beb/LeetcodeBadge.json" height="30" />](https://leetcode.com/Juanescacha/)
 [<img src="https://img.shields.io/badge/Github-000?logo=Github&logoColor=FFF" height="30" />](https://www.github.com/juanescacha)
 
 </div>
