@@ -55,9 +55,9 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=44B78B" height="30" /> -->
 <!-- GraphQL -->
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" />
-<br />
  <!-- Vitest -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/7d59c2c5527fe9fbb69a85755809c75c/raw/bc84d43749fb88eab5b433057c1da49a5b997d03/VitestBadge.json" height="30" />
+<br />
 <!-- Flask -->
 <!-- <img src="https://img.shields.io/badge/Flask-282C34?logo=flask" height="30" /> -->
 <!-- FastAPI -->
