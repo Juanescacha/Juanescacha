@@ -127,8 +127,8 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=FFF" height="30" />](https://www.linkedin.com/in/juanescacha)
 [<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/9803bf18bc595d9946e16cad0af5d34e/raw/02d225fb1f6667002c0d5fd444f4d6d1307c439c/LeetcodeBadge.json" height="30" />](https://leetcode.com/Juanescacha/)
 [<img src="https://img.shields.io/badge/Github-000?logo=Github&logoColor=FFF" height="30" />](https://www.github.com/juanescacha)
-<!-- [<img src="https://img.shields.io/badge/Gitlab-fff?logo=gitlab" height="30" />](https://gitlab.com/Juanescacha) -->
 [<img src="https://img.shields.io/badge/Gitlab-000?logo=gitlab" height="30" />](https://gitlab.com/Juanescacha)
+<!-- [<img src="https://img.shields.io/badge/Gitlab-fff?logo=gitlab" height="30" />](https://gitlab.com/Juanescacha) -->
 <!-- [<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=FFF" height="30" />](https://twitter.com/juanescacha)
 [<img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=FFF" height="30" />](https://www.twitch.tv/juanescacha_)
 [<img src="https://img.shields.io/badge/Discord-7289DA?logo=Discord&logoColor=FFF" height="30" />](https://discord.com/users/736992692277608459)
