@@ -16,7 +16,7 @@ I'm a Software Engineer with an emphasis on Web Development, I like to learn new
 [//]: # (HTML5)
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/bc949d8e48f9c3f69ab180a0acb75ddc/raw/a53a9be59b710718baeb75443baef685b7b120c9/HTML5Badge.json" height="30"  alt="HTML5"/>
 
-[//]: # (CSS3)
+
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/987c260db470d3202ae9803e59f3db5e/raw/ce3f8d033892628cbe77513449f0faf17ea21b8d/CSS3Badge.json" height="30" alt="CSS3" />
 
 [//]: # (JavaScript)
