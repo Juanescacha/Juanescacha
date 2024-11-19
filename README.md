@@ -1,23 +1,22 @@
-<!-- markdownlint-disable MD030 MD033 -->
-
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" /> I'm Juanes
 
 I'm a Software Engineer with an emphasis on Front-end development, I like to learn new things and I'm always looking for new challenges.
 
--   🖥️  See my [Portafolio](http://juanescacha.github.io)
--   🤝  I'm open to collaborate on open source projects
--   🧠  I'm currently preparing for the [Vue Developer Certificate](https://certificates.dev/vuejs)
--   ✉️  You can contact me [here](https://www.linkedin.com/in/juanescacha/)
--   🌍  I'm based in Cali, Colombia
-<!-- -   🚀  I'm currently working on [application-name](http://myapp.com) -->
+-   🖥️  See my [Portafolio](http://juanescacha.github.io)
+-   🤝  I'm open to collaborate on open source projects
+-   🧠  I'm currently preparing for the [Vue Developer Certificate](https://certificates.dev/vuejs)
+-   ✉️  You can contact me [here](https://www.linkedin.com/in/juanescacha/)
+-   🌍  I'm based in Cali, Colombia
+
+[//]: # (-   🚀  I'm currently working on [application-name]&#40;http://myapp.com&#41;)
 
 ## Skills
 
 <div align="center">
-<!-- Go -->
-<!-- <img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="30" /> -->
-<!-- Python -->
-<!-- <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cb8ff49f53d434d7f7cad2c5df73db1a/raw/b759d83b2849b6ae036a15341c25b3842f31c389/PythonBadge.json" height="30" /> -->
+
+[//]: # (New HTML)
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="20" role="img" aria-label="HTML"><title>HTML</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="59" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="0" height="20" fill="#555"/><rect x="0" width="59" height="20" fill="#282c34"/><rect width="59" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRTM0RjI2IiBkPSJNNzEgNDYwIDMwIDBoNDUxbC00MSA0NjAtMTg1IDUyIi8+PHBhdGggZmlsbD0iI0VGNjUyQSIgZD0ibTI1NiA0NzIgMTQ5LTQxIDM1LTM5NEgyNTYiLz48cGF0aCBmaWxsPSIjRUJFQkVCIiBkPSJNMjU2IDIwOGgtNzVsLTUtNThoODBWOTRIMTE0bDEgMTUgMTQgMTU2aDEyN3ptMCAxNDdoLTFsLTYzLTE3LTQtNDVoLTU2bDcgODkgMTE2IDMyaDF6Ii8+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTI1NSAyMDh2NTdoNzBsLTcgNzMtNjMgMTd2NTlsMTE2LTMyIDEtMTAgMTMtMTQ5IDItMTVoLTE2em0wLTExNHY1NmgxMzdsMS0xMiAzLTI5IDEtMTV6Ii8+PC9zdmc+"/><text aria-hidden="true" x="385" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="310">HTML</text><text x="385" y="140" transform="scale(.1)" fill="#fff" textLength="310">HTML</text></g><script xmlns=""/></svg>
+
 <!-- HTML5 -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/bc949d8e48f9c3f69ab180a0acb75ddc/raw/a53a9be59b710718baeb75443baef685b7b120c9/HTML5Badge.json" height="30" />
 <!-- CSS3 -->
@@ -38,60 +37,16 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <!-- Tailwind -->
 <img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" />
 <!-- Sass -->
- <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/f244844a18d3634a7d78d4e468a0afcd/raw/dc260fc38f15b8e76d185b238f652cf5f9ca09fc/SassBadge.json" height="30" />
-<!-- Redux -->
-<!-- <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="30" /> -->
-<!-- Npm -->
-<!-- <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/ef1695226e8ec433db7e51e195f8a426/raw/4bd59166757e099319a9b879c0b3c411d3045473/NpmBadge.json" height="30" /> -->
-<!-- Nodejs -->
-<!-- <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/bfb565fe15c3e3a55bb6340934be0bde/raw/f282aaa20cb0b09445ada06bcf37fa97804613aa/NodejsBadge.json" height="30" /> -->
-<!-- Express -->
-<!-- <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" height="30" /> -->
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/f244844a18d3634a7d78d4e468a0afcd/raw/dc260fc38f15b8e76d185b238f652cf5f9ca09fc/SassBadge.json" height="30" />
 <!-- MongoDB -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/44687f32191b68d47040f137ed40c0c6/raw/92836b7d5eaa97b53173f26ef9bf28240cf6dbac/MongoDBBadge.json" height="30" />
 <!-- PostgreSQL -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/c3def1dd495f7a7fc4d3dbb5710a2bbb/raw/8cf2494d791754b7edddbb8f6df5b19ad649c06f/PostgreSQLBadge.json" height="30" />
-<!-- Django -->
-<!-- <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=44B78B" height="30" /> -->
 <!-- GraphQL -->
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" />
- <!-- Vitest -->
+<!-- Vitest -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/7d59c2c5527fe9fbb69a85755809c75c/raw/bc84d43749fb88eab5b433057c1da49a5b997d03/VitestBadge.json" height="30" />
 <br />
-<!-- Flask -->
-<!-- <img src="https://img.shields.io/badge/Flask-282C34?logo=flask" height="30" /> -->
-<!-- FastAPI -->
-<!-- <img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" height="30" /> -->
-<!-- MYSQL -->
-<!-- <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="30" /> -->
-<!-- Bootstrap -->
-<!-- <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" height="30" /> -->
-<!-- JQuery -->
-<!-- <img src="https://img.shields.io/badge/JQuery-282C34?logo=jquery&logoColor=0769AD" height="30" /> -->
-<!-- Material Design -->
-<!-- <img src="https://img.shields.io/badge/Material%20Design-282C34?logo=material%20design&logoColor=757575" height="30" /> -->
-<!-- Material UI -->
-<!-- <img src="https://img.shields.io/badge/Material%20UI-282C34?logo=mui&logoColor=007FFF" height="30" /> -->
-<!-- Angular -->
-<!-- <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" height="30" /> -->
-<!-- PHP -->
-<!-- <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" height="30" /> -->
-<!-- Spring -->
-<!-- <img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" height="30" /> -->
-<!-- Ruby -->
-<!-- <img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" height="30" /> -->
-<!-- Docker -->
-<!-- <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" height="30" /> -->
-<!-- Kubernetes -->
-<!-- <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=326CE5" height="30" /> -->
-<!-- Amazon AWS -->
-<!-- <img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon%20aws" height="30" /> -->
-<!-- Netlify -->
-<!-- <img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" height="30" /> -->
-<!-- Vercel -->
-<!-- <img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel" height="30" /> -->
-<!-- Render -->
-<!-- <img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" height="30" /> -->
 <!-- Microsoft Azure -->
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/4a05071ea690d8880bd2f77ba98389da/raw/f4ae2318944244440f420c0bc0e5d974c31c7c0c/AzureBadge.json" height="30" />
 <!-- Git -->
@@ -128,15 +83,8 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 [<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/9803bf18bc595d9946e16cad0af5d34e/raw/02d225fb1f6667002c0d5fd444f4d6d1307c439c/LeetcodeBadge.json" height="30" />](https://leetcode.com/Juanescacha/)
 [<img src="https://img.shields.io/badge/Github-000?logo=Github&logoColor=FFF" height="30" />](https://www.github.com/juanescacha)
 [<img src="https://img.shields.io/badge/Gitlab-000?logo=gitlab" height="30" />](https://gitlab.com/Juanescacha)
-<!-- [<img src="https://img.shields.io/badge/Gitlab-fff?logo=gitlab" height="30" />](https://gitlab.com/Juanescacha) -->
-<!-- [<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=FFF" height="30" />](https://twitter.com/juanescacha)
-[<img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=FFF" height="30" />](https://www.twitch.tv/juanescacha_)
-[<img src="https://img.shields.io/badge/Discord-7289DA?logo=Discord&logoColor=FFF" height="30" />](https://discord.com/users/736992692277608459)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=FFF" height="30" />](https://www.instagram.com/juanescacha_)
-[<img src="https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=FFF" height="30" />](https://www.youtube.com/juanescacha) -->
+
 </div>
-<!-- https://readmestats.999857.xyz/api/top-langs/?username=juanescacha&langs_count=6&hide_border=true&layout=compact&theme=dark -->
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=transparent -->
 
 ## GitHub Stats
 
@@ -164,8 +112,6 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescacha&layout=compact&hide_border=true&theme=light" height=193 />
 </picture>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=juanescacha"> -->
-
 ## Listening to
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31mxi5kts24htqt7aiwrfqthcf3i&redirect=true">
@@ -174,9 +120,3 @@ I'm a Software Engineer with an emphasis on Front-end development, I like to lea
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mxi5kts24htqt7aiwrfqthcf3i&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=false&show_offline=false">
 </picture>
 </a>
-
-<!-- ## Support Me
-
-<a href="https://www.buymeacoffee.com/Juanescacha">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" />
-</a> -->
