@@ -13,10 +13,11 @@ I'm a Software Engineer with an emphasis on Web Development, I like to learn new
 
 <div align="center">
 
-<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/bc949d8e48f9c3f69ab180a0acb75ddc/raw/a53a9be59b710718baeb75443baef685b7b120c9/HTML5Badge.json" height=30 alt="HTML5"/>
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/bc949d8e48f9c3f69ab180a0acb75ddc/raw/a53a9be59b710718baeb75443baef685b7b120c9/HTML5Badge.json" height="30" style="height:30px" alt="HTML5"/>
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/987c260db470d3202ae9803e59f3db5e/raw/ce3f8d033892628cbe77513449f0faf17ea21b8d/CSS3Badge.json" height="30" style="height:30px" alt="CSS3" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/19ef3563ce77be936fb477ee77e4fdc2/raw/4b45b833d48b9b4262f77d6fb0ca0e127d064e78/JavascriptBadge.json" height="30" style="height:30px" alt="JavaScript" >
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cf8becfa3c1217cf3d39156fe645c6ce/raw/174df81e680932dc7a8d9623ed252317cc3fb116/TypescriptBadge.json" height="30" style="height:30px" alt="TypeScript" />
+<br />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0b097ee0815aac83a2432c2869361f0c/raw/f177f93479fb4d058e2534d3a6be87072fb0cf68/VueBadge.json" height="30" style="height:30px" alt="Vue" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/9b4d495874164971bc82549bbf1d474d/raw/6d60d6df5c2b78d6e4e64bd69fc6b75d28b0b776/NuxtBadge.json" height="30" style="height:30px" alt="Nuxt" />
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" style="height:30px" />
