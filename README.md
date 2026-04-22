@@ -20,9 +20,9 @@ I'm a Software Engineer with an emphasis on Web Development, I like to learn new
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/4803fdf95acc4cef4b8256ea98d86ceb/raw/629bb4e5b2857579bd39e35e8014758fb06167c6/viteBadge.json" height="30" style="height:30px" alt="Vite" />
 <br />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0b097ee0815aac83a2432c2869361f0c/raw/f177f93479fb4d058e2534d3a6be87072fb0cf68/VueBadge.json" height="30" style="height:30px" alt="Vue" />
-<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/9b4d495874164971bc82549bbf1d474d/raw/6d60d6df5c2b78d6e4e64bd69fc6b75d28b0b776/NuxtBadge.json" height="30" style="height:30px" alt="Nuxt" />
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" style="height:30px" />
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="30" style="height:30px" />
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/9b4d495874164971bc82549bbf1d474d/raw/6d60d6df5c2b78d6e4e64bd69fc6b75d28b0b776/NuxtBadge.json" height="30" style="height:30px" alt="Nuxt" />
 <br />
 <img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" style="height:30px" alt="Tailwind" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/f244844a18d3634a7d78d4e468a0afcd/raw/dc260fc38f15b8e76d185b238f652cf5f9ca09fc/SassBadge.json" height="30" style="height:30px" alt="Sass" />
