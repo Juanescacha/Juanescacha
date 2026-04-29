@@ -18,6 +18,7 @@ I'm a Software Engineer with an emphasis on Web Development, I like to learn new
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/19ef3563ce77be936fb477ee77e4fdc2/raw/4b45b833d48b9b4262f77d6fb0ca0e127d064e78/JavascriptBadge.json" height="30" style="height:30px" alt="JavaScript" >
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/cf8becfa3c1217cf3d39156fe645c6ce/raw/174df81e680932dc7a8d9623ed252317cc3fb116/TypescriptBadge.json" height="30" style="height:30px" alt="TypeScript" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/868c58154072f119ec6e0955a9d90321/raw/dd453a477bee060ed1942cf3bdb94e65a29056c4/NodeBadge.json" height="30" style="height:30px" alt="Node.js" />
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/5cafee966e2ee327c687dc431c1613ea/raw/971f15bd22069cd7f4d6e81f65a7d2231b1d08ba/ThreejsBadge.json" height="30" style="height:30px" alt="Three.js" />
 <br />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0b097ee0815aac83a2432c2869361f0c/raw/f177f93479fb4d058e2534d3a6be87072fb0cf68/VueBadge.json" height="30" style="height:30px" alt="Vue" />
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="30" style="height:30px" alt="React" />
@@ -27,7 +28,6 @@ I'm a Software Engineer with an emphasis on Web Development, I like to learn new
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/313da010c770938ad6aec7f54d42f897/raw/97a5172b0a7a9723819ac3c4e25f18e40ac66e18/ReduxBadge.json" height="30" style="height:30px" alt="Redux" />
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" style="height:30px" alt="GraphQL" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/2660fe1e4434449678c6a736c15d52b0/raw/d8425238d4c940122c53794088ef492a7734dfd7/LaravelBadge.json" height="30" style="height:30px" alt="Laravel" />
-<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/5cafee966e2ee327c687dc431c1613ea/raw/971f15bd22069cd7f4d6e81f65a7d2231b1d08ba/ThreejsBadge.json" height="30" style="height:30px" alt="Three.js" />
 <br />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/44687f32191b68d47040f137ed40c0c6/raw/92836b7d5eaa97b53173f26ef9bf28240cf6dbac/MongoDBBadge.json" height="30" style="height:30px" alt="MongoDB" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/c3def1dd495f7a7fc4d3dbb5710a2bbb/raw/8cf2494d791754b7edddbb8f6df5b19ad649c06f/PostgreSQLBadge.json" height="30" style="height:30px" alt="PostgreSQL" />
@@ -35,18 +35,19 @@ I'm a Software Engineer with an emphasis on Web Development, I like to learn new
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/7d59c2c5527fe9fbb69a85755809c75c/raw/bc84d43749fb88eab5b433057c1da49a5b997d03/VitestBadge.json" height="30" style="height:30px" alt="Vitest" />
 <img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind-css&logoColor=38bdf8" height="30" style="height:30px" alt="Tailwind" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/f244844a18d3634a7d78d4e468a0afcd/raw/dc260fc38f15b8e76d185b238f652cf5f9ca09fc/SassBadge.json" height="30" style="height:30px" alt="Sass" />
+<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/106f4ddcc3d87c4bacf2e48dd6f5d753/raw/44dbc59c64b2adc556ff299fd6deb3dce996f5e4/FigmaBadge.json" height="30" style="height:30px" alt="Figma" />
 <br />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/4a05071ea690d8880bd2f77ba98389da/raw/f4ae2318944244440f420c0bc0e5d974c31c7c0c/AzureBadge.json" height="30" style="height:30px" alt="Azure" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/9ae6542682dbea84cba52d60cbcc05a7/raw/7f93eac967a762827a3cbd76e4422b3107c8416f/Claude.json" height="30" style="height:30px" alt="Claude" />
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="30" style="height:30px" alt="Git" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/98637f10bb60b607848040b3c29ff2e1/raw/cee2ce299b736b038250150fb34d82e86cb2fd87/WebStorm.json" height="30" style="height:30px" alt="WebStorm" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/8495419d119e7e3e4354da231f3d7ac5/raw/31ba766a522f8ef4975917f2497540b7e52efe50/VSCodeBadge.json" height="30" style="height:30px" alt="VSCode" />
+<br />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/4b4b823a2bdbb1c492d71d2e8dd54fed/raw/a929dd14042d2f6fb0cc883fd51216257f08a974/LinearBadge.json" height="30" style="height:30px" alt="Linear" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/9181a0edb05e8d8e486f8507d9ab2253/raw/b0233835e92f72b7c8297fe19bbf7f54d520cb75/SlackBadge.json" height="30" style="height:30px" alt="Slack" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0df5b6bcb05ff0ef752c7a4ef7bb4367/raw/2b90036b43974be2933d46e2a137bc45ed8ca6d7/ConfluenceBadge.json" height="30" style="height:30px" alt="Confluence" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/2acc45736a576f0af5328a1c7394b58e/raw/87a0b70a8817cf163107d520fe1858ccc4902978/JiraBadge.json" height="30" style="height:30px" alt="Jira" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/0c27d344a2eddae2df0f8e43ade19433/raw/1d2e60a1d0498b7278ae32f90052e6d0e12213ae/TeamsBadge.json" height="30" style="height:30px" alt="Teams" />
-<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/106f4ddcc3d87c4bacf2e48dd6f5d753/raw/44dbc59c64b2adc556ff299fd6deb3dce996f5e4/FigmaBadge.json" height="30" style="height:30px" alt="Figma" />
 <br />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/f983d0698354ede1e88cedde67780f4b/raw/0231f651fe212eb6c8cb7db53d39f7c7d6a071d4/PhotoshopBadge.json" height="30" style="height:30px" alt="Photoshop" />
 <img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/b3984faf524291c417d0b92f1ff449b7/raw/31ba901cc116809828b1976be8f3b68f27efc1e2/IllustratorBadge.json" height="30" style="height:30px" alt="Illustrator" />
