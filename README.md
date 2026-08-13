@@ -59,7 +59,8 @@ I'm a Software Engineer with an emphasis on Web Development, I like to learn new
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=FFF" height="30" style="height:30px" alt="LinkedIn" />](https://www.linkedin.com/in/juanescacha)
+[<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/95f9fc82a09d8f87b5188ff36cb08ef4/raw/e8474a1bcd05a2b7ea9aa688d169edf1eefe9e05/LinkedInBadge.json" height="30" style="height:30px" alt="LinkedIn" />](https://www.linkedin.com/in/juanescacha)
+[<img src="[https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/95f9fc82a09d8f87b5188ff36cb08ef4/raw/e8474a1bcd05a2b7ea9aa688d169edf1eefe9e05/LinkedInBadge.json](https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/47e9d2665d4c262551f6a4cb2636a4ff/raw/f454b3798126f6b4f96c23614848e15af05a0cb3/LinkedInColorBadge.json)" height="30" style="height:30px" alt="LinkedIn" />](https://www.linkedin.com/in/juanescacha)
 [<img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/9803bf18bc595d9946e16cad0af5d34e/raw/02d225fb1f6667002c0d5fd444f4d6d1307c439c/LeetcodeBadge.json" height="30" style="height:30px" alt="LeetCode" />](https://leetcode.com/Juanescacha/)
 [<img src="https://img.shields.io/badge/Github-000?logo=Github&logoColor=FFF" height="30" style="height:30px" alt="GitHub" />](https://www.github.com/juanescacha)
 [<img src="https://img.shields.io/badge/Gitlab-000?logo=gitlab" height="30" style="height:30px" alt="Gitlab" />](https://gitlab.com/Juanescacha)
