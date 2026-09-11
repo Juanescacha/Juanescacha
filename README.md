@@ -28,6 +28,7 @@ I'm a Software Engineer with an emphasis on Web Development, I like to learn new
 <picture><img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/313da010c770938ad6aec7f54d42f897/raw/97a5172b0a7a9723819ac3c4e25f18e40ac66e18/ReduxBadge.json" height="30" style="height:30px" alt="Redux" /></picture>
 <picture><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="30" style="height:30px" alt="GraphQL" /></picture>
 <picture><img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/2660fe1e4434449678c6a736c15d52b0/raw/d8425238d4c940122c53794088ef492a7734dfd7/LaravelBadge.json" height="30" style="height:30px" alt="Laravel" /></picture>
+<picture><img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/1f080e2dd6c8af92d72077053206eac8/raw/25c853cbc7bbff19fca669fe7ca5de543df2fc6a/AstroBadge.json" height="30" style="height:30px" alt="Astro" /></picture>
 <br />
 <picture><img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/44687f32191b68d47040f137ed40c0c6/raw/92836b7d5eaa97b53173f26ef9bf28240cf6dbac/MongoDBBadge.json" height="30" style="height:30px" alt="MongoDB" /></picture>
 <picture><img src="https://img.shields.io/endpoint.svg?url=https://gist.githubusercontent.com/Juanescacha/c3def1dd495f7a7fc4d3dbb5710a2bbb/raw/8cf2494d791754b7edddbb8f6df5b19ad649c06f/PostgreSQLBadge.json" height="30" style="height:30px" alt="PostgreSQL" /></picture>
