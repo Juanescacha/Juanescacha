@@ -2,12 +2,11 @@
 
 I'm a Software Engineer with an emphasis on Web Development, I like to learn new things and I'm always looking for new challenges.
 
--   🖥️  See my [Portafolio](http://juanescacha.github.io)
+-   🖥️  See my [Portafolio](https://juanescacha.dev)
 -   🤝  I'm open to collaborate on open source projects
 -   ✉️  You can contact me [here](https://www.linkedin.com/in/juanescacha/)
 -   🌍  I'm based in Colombia
-
-[//]: # (-   🚀  I'm currently working on [application-name]&#40;http://myapp.com&#41;)
+-   🚀  I'm currently working on [Lulos Impulso Digital](https://lulosimpulsodigital.com/)
 
 ## Skills
 
